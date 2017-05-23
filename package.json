@@ -1,0 +1,22 @@
+{
+  "name": "unity_game",
+  "version": "1.0.0",
+  "description": "first unity game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebgonz21/unity.git"
+  },
+  "keywords": [
+    "unity"
+  ],
+  "author": "sebastian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebgonz21/unity/issues"
+  },
+  "homepage": "https://github.com/sebgonz21/unity#readme"
+}
